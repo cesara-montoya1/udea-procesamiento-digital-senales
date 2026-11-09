@@ -1,10 +1,14 @@
-# Ejemplos de las clases y proyecto final de procesamiento digital de señales
-## Autor: César Augusto Montoya Ocampo; Cédula: 1036681523
+# Digital Signal Processing (PDS) Laboratory Code
 
-## Ejemplos del primer capítulo
+> [!NOTE]
+> **Archived Academic Project**  
+> This repository is a read-only historical archive of coursework developed for academic evaluation.
 
-Los ejemplos modificados solamente corresponden a las clases del primer capítulo y están en su respectiva carpeta Clase_n.
+## Overview
+Digital signal processing code demonstrations and laboratory assignments for the **Procesamiento Digital de Señales** course at **Universidad de Antioquia**.
 
-## Proyecto final
+## Key Concepts
+* Discrete-Time Fourier Transform (DTFT) and Fast Fourier Transform (FFT).
+* FIR and IIR digital filter design (Butterworth, Chebyshev, Kaiser windowing).
+* Z-transform analysis, pole-zero stability plots, and sampling rate conversion.
 
-Todo lo relacionado con el proyecto final del curso que fue de práctica libre sobre algún tema relacionado con el último capítulo del curso está en la carpeta [ProyectoFinal](https://github.com/cesara-montoya1/PDS/tree/main/ProyectoFinal). 
